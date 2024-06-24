@@ -1,1 +1,1 @@
-alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
+freeren/qanything:v1.2.2 registry.cn-beijing.aliyuncs.com/cwwhy/qanything:v1.2.2
