@@ -1,1 +1,1 @@
-freeren/qanything:v1.2.2 registry.cn-beijing.aliyuncs.com/cwwhy/qanything:v1.2.2
+docker.elastic.co/elasticsearch/elasticsearch:8.11.4 registry.cn-beijing.aliyuncs.com/cwwhy/elasticsearch:8.11.4
